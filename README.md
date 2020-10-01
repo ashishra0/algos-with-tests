@@ -1,15 +1,13 @@
-## Algorithms and Data Structures with Tests
+## Just Programs with Tests
 
-Welcome to the Algorithms and Data Structures with Tests repository! The idea for this repo came as part of hacktoberfest 2020 where I always wanted to try and implement algorithms and data structures in various languages along with writing tests. Hope to see your active contribution.
+Welcome to Just Programs Repository. The idea for this repo came as part of hacktoberfest 2020 where I always wanted to try to solve certain leetcode, hackerrank problems in various languages along with writing tests. Hope to see your active contribution.
 
 
 ### Learn More
 
 * To get upto speed quickly, check out the [contributing doc](#).
 
-* The aim of this repository is to encourage people to write various algorithm implementations along with a test file to not only have confidence implementing algorithms and also have confidence in writing tests for the same.
-
-* This is aimed at people who want to learn how to make valuable pull requests.
+* This is also aimed at beginners who want to learn how to make pull requests and understand the github flow.
 
 ### Contribution Guidelines
 (TO BE ADDED SOON)
